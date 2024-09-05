@@ -1,3 +1,21 @@
+#** CRUD APP**
+
+## Indice
+
+- [¿Qué es una CRUD APP?](#que-es-una-crud-app?)
+- [Tecnologias](#tecnologias)
+
+#### ¿Qué es una CRUD APP?
+<p>
+Una aplicación crud es una herramienta que permite gestionar datos de manera básica. imagina una libreta de contactos: puedes agregar nuevos contactos (crear), buscar uno específico (leer), cambiar su número de teléfono (actualizar) o borrarlo por completo (eliminar). estas cuatro acciones fundamentales de crear, leer, actualizar y eliminar son las que definen una aplicación crud. en el mundo digital, estas aplicaciones son la base de muchos sistemas, desde simples listas de tareas hasta complejos sistemas de gestión de contenidos.
+</p>
+
+#### Tecnologias
+HTML
+CSS
+Java Script 
+
+
 ![Logo proyecto](assets/images/Logo.jpg)
 
 # Do Re Mi Piano School: Landing Page para Escuela de Música Especializada en Piano
